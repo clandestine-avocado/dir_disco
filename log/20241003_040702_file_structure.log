@@ -1,0 +1,672 @@
+2024-10-03 04:07:02,624 - INFO - Processing File: C:\Users\kroy2\Documents\bookmarks_1_8_24.html
+2024-10-03 04:07:02,624 - INFO - Processing File: C:\Users\kroy2\Documents\bookmarks_9_30_24.html
+2024-10-03 04:07:02,624 - INFO - Processing File: C:\Users\kroy2\Documents\Default.rdp
+2024-10-03 04:07:02,624 - INFO - Processing File: C:\Users\kroy2\Documents\desktop.ini
+2024-10-03 04:07:02,624 - INFO - Processing File: C:\Users\kroy2\Documents\directory_structure.csv
+2024-10-03 04:07:02,624 - INFO - Processing Directory: C:\Users\kroy2\Music
+2024-10-03 04:07:02,624 - ERROR - Failed to process directory C:\Users\kroy2\Documents\My Music: [WinError 5] Access is denied: 'C:\\Users\\kroy2\\Documents\\My Music'
+2024-10-03 04:07:02,640 - INFO - Processing Directory: C:\Users\kroy2\Pictures
+2024-10-03 04:07:02,641 - ERROR - Failed to process directory C:\Users\kroy2\Documents\My Pictures: [WinError 5] Access is denied: 'C:\\Users\\kroy2\\Documents\\My Pictures'
+2024-10-03 04:07:02,642 - INFO - Processing Directory: C:\Users\kroy2\Videos
+2024-10-03 04:07:02,642 - ERROR - Failed to process directory C:\Users\kroy2\Documents\My Videos: [WinError 5] Access is denied: 'C:\\Users\\kroy2\\Documents\\My Videos'
+2024-10-03 04:07:02,644 - INFO - Processing Directory: C:\Users\kroy2\Documents\python
+2024-10-03 04:07:02,646 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup
+2024-10-03 04:07:02,647 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup\.vscode
+2024-10-03 04:07:02,648 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\.vscode\settings.json
+2024-10-03 04:07:02,649 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue
+2024-10-03 04:07:02,650 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\button_snap.py
+2024-10-03 04:07:02,651 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\check_mount.py
+2024-10-03 04:07:02,652 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\db.py
+2024-10-03 04:07:02,652 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\db2.py
+2024-10-03 04:07:02,654 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\db3.py
+2024-10-03 04:07:02,656 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\db_all.py
+2024-10-03 04:07:02,658 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\doorbell.h264
+2024-10-03 04:07:02,658 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\doorbell.jpg
+2024-10-03 04:07:02,659 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\passive_buzzer.py
+2024-10-03 04:07:02,660 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\pwm.py
+2024-10-03 04:07:02,661 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\pwm2.py
+2024-10-03 04:07:02,662 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\testfordoorbellfolder.txt
+2024-10-03 04:07:02,663 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\backbup_weird home issue\testing_mqtt_con_to_HA.py
+2024-10-03 04:07:02,665 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup\doorbell py
+2024-10-03 04:07:02,665 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\doorbell py\1.0_button.py
+2024-10-03 04:07:02,666 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\doorbell py\1.1_button_snap.py
+2024-10-03 04:07:02,667 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\doorbell py\1.3_buzzer.py
+2024-10-03 04:07:02,668 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\doorbell py\2.0_button_snap_buzz.py
+2024-10-03 04:07:02,669 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\doorbell py\2.1_button_snap_buzz.py
+2024-10-03 04:07:02,670 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup\mjpg-streamer
+2024-10-03 04:07:02,671 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup\mqtt
+2024-10-03 04:07:02,673 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\mqtt\snap_b64.py
+2024-10-03 04:07:02,674 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\mqtt\testingmqtt.py
+2024-10-03 04:07:02,676 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\Db3A backup\picam
+2024-10-03 04:07:02,676 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\picam\lo_hi_res.py
+2024-10-03 04:07:02,676 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\picam\picam.py
+2024-10-03 04:07:02,676 - INFO - Processing File: C:\Users\kroy2\Documents\python\Db3A backup\picam\picam_still_vid.py
+2024-10-03 04:07:02,676 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects
+2024-10-03 04:07:02,676 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\dir_discovery
+2024-10-03 04:07:02,676 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\dir_discovery\file_structure.log
+2024-10-03 04:07:02,682 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\dir_discovery\log
+2024-10-03 04:07:02,683 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\dir_discovery\log\20241003_040702_file_structure.log
+2024-10-03 04:07:02,684 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\dir_discovery\output
+2024-10-03 04:07:02,685 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\dir_discovery\recursive_directory_discovery.py
+2024-10-03 04:07:02,686 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\dir_discovery\recursive_directory_discovery_tree.py
+2024-10-03 04:07:02,687 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_generate_test_files
+2024-10-03 04:07:02,689 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_generate_test_files\json_generate_test_files.py
+2024-10-03 04:07:02,690 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor
+2024-10-03 04:07:02,691 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\.vscode
+2024-10-03 04:07:02,692 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\.vscode\launch.json
+2024-10-03 04:07:02,693 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\data
+2024-10-03 04:07:02,694 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\12345.json
+2024-10-03 04:07:02,695 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\67890.json
+2024-10-03 04:07:02,696 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_cases.txt
+2024-10-03 04:07:02,697 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files
+2024-10-03 04:07:02,698 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00001.json
+2024-10-03 04:07:02,699 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00002.json
+2024-10-03 04:07:02,700 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00003.json
+2024-10-03 04:07:02,701 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00004.json
+2024-10-03 04:07:02,702 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00005.json
+2024-10-03 04:07:02,703 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00006.json
+2024-10-03 04:07:02,705 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00007.json
+2024-10-03 04:07:02,706 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00008.json
+2024-10-03 04:07:02,706 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00009.json
+2024-10-03 04:07:02,706 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00010.json
+2024-10-03 04:07:02,706 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00011.json
+2024-10-03 04:07:02,706 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00012.json
+2024-10-03 04:07:02,706 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00013.json
+2024-10-03 04:07:02,712 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00014.json
+2024-10-03 04:07:02,713 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00015.json
+2024-10-03 04:07:02,714 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00016.json
+2024-10-03 04:07:02,715 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00017.json
+2024-10-03 04:07:02,716 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00018.json
+2024-10-03 04:07:02,717 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00019.json
+2024-10-03 04:07:02,718 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00020.json
+2024-10-03 04:07:02,719 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00021.json
+2024-10-03 04:07:02,721 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00022.json
+2024-10-03 04:07:02,723 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00023.json
+2024-10-03 04:07:02,724 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00024.json
+2024-10-03 04:07:02,725 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00025.json
+2024-10-03 04:07:02,726 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00026.json
+2024-10-03 04:07:02,727 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00027.json
+2024-10-03 04:07:02,728 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00028.json
+2024-10-03 04:07:02,729 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00029.json
+2024-10-03 04:07:02,730 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00030.json
+2024-10-03 04:07:02,730 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00031.json
+2024-10-03 04:07:02,731 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00032.json
+2024-10-03 04:07:02,732 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00033.json
+2024-10-03 04:07:02,734 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00034.json
+2024-10-03 04:07:02,735 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00035.json
+2024-10-03 04:07:02,735 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00036.json
+2024-10-03 04:07:02,737 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00037.json
+2024-10-03 04:07:02,738 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00038.json
+2024-10-03 04:07:02,740 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00039.json
+2024-10-03 04:07:02,741 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00040.json
+2024-10-03 04:07:02,742 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00041.json
+2024-10-03 04:07:02,743 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00042.json
+2024-10-03 04:07:02,744 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00043.json
+2024-10-03 04:07:02,745 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00044.json
+2024-10-03 04:07:02,746 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00045.json
+2024-10-03 04:07:02,746 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00046.json
+2024-10-03 04:07:02,747 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00047.json
+2024-10-03 04:07:02,748 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00048.json
+2024-10-03 04:07:02,749 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00049.json
+2024-10-03 04:07:02,750 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\data\json_test_files\00050.json
+2024-10-03 04:07:02,751 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\data\outputs
+2024-10-03 04:07:02,752 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\JSON_Claude_AI_question.txt
+2024-10-03 04:07:02,754 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter
+2024-10-03 04:07:02,756 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned
+2024-10-03 04:07:02,757 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00001.json
+2024-10-03 04:07:02,758 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00002.json
+2024-10-03 04:07:02,759 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00003.json
+2024-10-03 04:07:02,760 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00004.json
+2024-10-03 04:07:02,761 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00005.json
+2024-10-03 04:07:02,762 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00006.json
+2024-10-03 04:07:02,763 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00007.json
+2024-10-03 04:07:02,764 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00008.json
+2024-10-03 04:07:02,765 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00009.json
+2024-10-03 04:07:02,767 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00010.json
+2024-10-03 04:07:02,767 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00011.json
+2024-10-03 04:07:02,768 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00012.json
+2024-10-03 04:07:02,769 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00013.json
+2024-10-03 04:07:02,771 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00014.json
+2024-10-03 04:07:02,772 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00015.json
+2024-10-03 04:07:02,772 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00016.json
+2024-10-03 04:07:02,772 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00017.json
+2024-10-03 04:07:02,776 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00018.json
+2024-10-03 04:07:02,776 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00019.json
+2024-10-03 04:07:02,777 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00020.json
+2024-10-03 04:07:02,778 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00021.json
+2024-10-03 04:07:02,779 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00022.json
+2024-10-03 04:07:02,780 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00023.json
+2024-10-03 04:07:02,781 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00024.json
+2024-10-03 04:07:02,782 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00025.json
+2024-10-03 04:07:02,783 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00026.json
+2024-10-03 04:07:02,784 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00027.json
+2024-10-03 04:07:02,785 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00028.json
+2024-10-03 04:07:02,786 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00029.json
+2024-10-03 04:07:02,788 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00030.json
+2024-10-03 04:07:02,789 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00031.json
+2024-10-03 04:07:02,790 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00032.json
+2024-10-03 04:07:02,791 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00033.json
+2024-10-03 04:07:02,792 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00034.json
+2024-10-03 04:07:02,793 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00035.json
+2024-10-03 04:07:02,794 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00036.json
+2024-10-03 04:07:02,795 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00037.json
+2024-10-03 04:07:02,796 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00038.json
+2024-10-03 04:07:02,797 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00039.json
+2024-10-03 04:07:02,798 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00040.json
+2024-10-03 04:07:02,798 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00041.json
+2024-10-03 04:07:02,800 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00042.json
+2024-10-03 04:07:02,800 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00043.json
+2024-10-03 04:07:02,802 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00044.json
+2024-10-03 04:07:02,802 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00045.json
+2024-10-03 04:07:02,804 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00046.json
+2024-10-03 04:07:02,807 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00047.json
+2024-10-03 04:07:02,808 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00048.json
+2024-10-03 04:07:02,808 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00049.json
+2024-10-03 04:07:02,809 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00050.json
+2024-10-03 04:07:02,810 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00052.json
+2024-10-03 04:07:02,811 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\00053.json
+2024-10-03 04:07:02,812 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\cleaned\test_disk_full.json
+2024-10-03 04:07:02,812 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original
+2024-10-03 04:07:02,813 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00001.json
+2024-10-03 04:07:02,814 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00002.json
+2024-10-03 04:07:02,815 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00003.json
+2024-10-03 04:07:02,815 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00004.json
+2024-10-03 04:07:02,817 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00005.json
+2024-10-03 04:07:02,817 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00006.json
+2024-10-03 04:07:02,819 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00007.json
+2024-10-03 04:07:02,820 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00008.json
+2024-10-03 04:07:02,821 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00009.json
+2024-10-03 04:07:02,824 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00010.json
+2024-10-03 04:07:02,825 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00011.json
+2024-10-03 04:07:02,826 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00012.json
+2024-10-03 04:07:02,827 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00013.json
+2024-10-03 04:07:02,827 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00014.json
+2024-10-03 04:07:02,828 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00015.json
+2024-10-03 04:07:02,829 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00016.json
+2024-10-03 04:07:02,830 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00017.json
+2024-10-03 04:07:02,831 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00018.json
+2024-10-03 04:07:02,832 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00019.json
+2024-10-03 04:07:02,833 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00020.json
+2024-10-03 04:07:02,834 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00021.json
+2024-10-03 04:07:02,835 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00022.json
+2024-10-03 04:07:02,836 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00023.json
+2024-10-03 04:07:02,838 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00024.json
+2024-10-03 04:07:02,841 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00025.json
+2024-10-03 04:07:02,842 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00026.json
+2024-10-03 04:07:02,843 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00027.json
+2024-10-03 04:07:02,843 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00028.json
+2024-10-03 04:07:02,843 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00029.json
+2024-10-03 04:07:02,843 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00030.json
+2024-10-03 04:07:02,843 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00031.json
+2024-10-03 04:07:02,843 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00032.json
+2024-10-03 04:07:02,848 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00033.json
+2024-10-03 04:07:02,848 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00034.json
+2024-10-03 04:07:02,849 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00035.json
+2024-10-03 04:07:02,850 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00036.json
+2024-10-03 04:07:02,851 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00037.json
+2024-10-03 04:07:02,852 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00038.json
+2024-10-03 04:07:02,855 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00039.json
+2024-10-03 04:07:02,856 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00040.json
+2024-10-03 04:07:02,857 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00041.json
+2024-10-03 04:07:02,858 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00042.json
+2024-10-03 04:07:02,859 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00043.json
+2024-10-03 04:07:02,860 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00044.json
+2024-10-03 04:07:02,861 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00045.json
+2024-10-03 04:07:02,862 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00046.json
+2024-10-03 04:07:02,863 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00047.json
+2024-10-03 04:07:02,863 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00048.json
+2024-10-03 04:07:02,864 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00049.json
+2024-10-03 04:07:02,865 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00050.json
+2024-10-03 04:07:02,866 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00051.json
+2024-10-03 04:07:02,867 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00052.json
+2024-10-03 04:07:02,868 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\00053.json
+2024-10-03 04:07:02,869 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_original\test_disk_full.json
+2024-10-03 04:07:02,872 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\json_redacter.py
+2024-10-03 04:07:02,873 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs
+2024-10-03 04:07:02,874 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_194307.log
+2024-10-03 04:07:02,875 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_194533.log
+2024-10-03 04:07:02,876 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_194737.log
+2024-10-03 04:07:02,878 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_194915.log
+2024-10-03 04:07:02,878 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_195335.log
+2024-10-03 04:07:02,879 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_195714.log
+2024-10-03 04:07:02,881 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\json_redacter\logs\json_cleaner_20241002_195928.log
+2024-10-03 04:07:02,882 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\reports
+2024-10-03 04:07:02,884 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\20241002-185253_json_analysis_report.txt
+2024-10-03 04:07:02,885 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_10_dataframe.csv
+2024-10-03 04:07:02,885 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_11_dataframe.csv
+2024-10-03 04:07:02,887 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_12_dataframe.csv
+2024-10-03 04:07:02,888 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_13_dataframe.csv
+2024-10-03 04:07:02,891 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_14_dataframe.csv
+2024-10-03 04:07:02,892 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_15_dataframe.csv
+2024-10-03 04:07:02,893 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_16_dataframe.csv
+2024-10-03 04:07:02,893 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_17_dataframe.csv
+2024-10-03 04:07:02,894 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_18_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_19_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_1_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_20_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_21_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_22_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_23_dataframe.csv
+2024-10-03 04:07:02,895 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_24_dataframe.csv
+2024-10-03 04:07:02,901 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_25_dataframe.csv
+2024-10-03 04:07:02,901 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_26_dataframe.csv
+2024-10-03 04:07:02,903 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_27_dataframe.csv
+2024-10-03 04:07:02,905 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_28_dataframe.csv
+2024-10-03 04:07:02,906 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_29_dataframe.csv
+2024-10-03 04:07:02,907 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_2_dataframe.csv
+2024-10-03 04:07:02,908 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_30_dataframe.csv
+2024-10-03 04:07:02,909 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_31_dataframe.csv
+2024-10-03 04:07:02,910 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_32_dataframe.csv
+2024-10-03 04:07:02,911 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_33_dataframe.csv
+2024-10-03 04:07:02,913 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_34_dataframe.csv
+2024-10-03 04:07:02,913 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_3_dataframe.csv
+2024-10-03 04:07:02,913 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_4_dataframe.csv
+2024-10-03 04:07:02,913 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_5_dataframe.csv
+2024-10-03 04:07:02,913 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_6_dataframe.csv
+2024-10-03 04:07:02,913 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_7_dataframe.csv
+2024-10-03 04:07:02,919 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_8_dataframe.csv
+2024-10-03 04:07:02,921 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\reports\group_9_dataframe.csv
+2024-10-03 04:07:02,922 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\scripts
+2024-10-03 04:07:02,924 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\scripts\app.log
+2024-10-03 04:07:02,925 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\scripts\process_json.py
+2024-10-03 04:07:02,927 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\scripts\process_json2.py
+2024-10-03 04:07:02,927 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\scripts\split_json_file.py
+2024-10-03 04:07:02,928 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive
+2024-10-03 04:07:02,928 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\file_structure.log
+2024-10-03 04:07:02,928 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files
+2024-10-03 04:07:02,928 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json001.json
+2024-10-03 04:07:02,933 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json002.json
+2024-10-03 04:07:02,933 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json003.json
+2024-10-03 04:07:02,934 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json004.json
+2024-10-03 04:07:02,935 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json005.json
+2024-10-03 04:07:02,937 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json006.json
+2024-10-03 04:07:02,938 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json007.json
+2024-10-03 04:07:02,940 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json008.json
+2024-10-03 04:07:02,941 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json009.json
+2024-10-03 04:07:02,942 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json010.json
+2024-10-03 04:07:02,943 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json011.json
+2024-10-03 04:07:02,944 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json012.json
+2024-10-03 04:07:02,945 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json013.json
+2024-10-03 04:07:02,946 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json014.json
+2024-10-03 04:07:02,947 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json015.json
+2024-10-03 04:07:02,948 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json016.json
+2024-10-03 04:07:02,948 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json017.json
+2024-10-03 04:07:02,949 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json018.json
+2024-10-03 04:07:02,950 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json019.json
+2024-10-03 04:07:02,952 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json020.json
+2024-10-03 04:07:02,953 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json021.json
+2024-10-03 04:07:02,954 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json022.json
+2024-10-03 04:07:02,956 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json023.json
+2024-10-03 04:07:02,957 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json024.json
+2024-10-03 04:07:02,958 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json025.json
+2024-10-03 04:07:02,959 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json026.json
+2024-10-03 04:07:02,961 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json027.json
+2024-10-03 04:07:02,962 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json028.json
+2024-10-03 04:07:02,963 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json029.json
+2024-10-03 04:07:02,963 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json030.json
+2024-10-03 04:07:02,964 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json031.json
+2024-10-03 04:07:02,965 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json032.json
+2024-10-03 04:07:02,966 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json033.json
+2024-10-03 04:07:02,967 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json034.json
+2024-10-03 04:07:02,968 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json035.json
+2024-10-03 04:07:02,969 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json036.json
+2024-10-03 04:07:02,971 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json037.json
+2024-10-03 04:07:02,973 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json038.json
+2024-10-03 04:07:02,974 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json039.json
+2024-10-03 04:07:02,975 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json040.json
+2024-10-03 04:07:02,976 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json041.json
+2024-10-03 04:07:02,977 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json042.json
+2024-10-03 04:07:02,978 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json043.json
+2024-10-03 04:07:02,979 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json044.json
+2024-10-03 04:07:02,980 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json045.json
+2024-10-03 04:07:02,981 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json046.json
+2024-10-03 04:07:02,982 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json047.json
+2024-10-03 04:07:02,983 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json048.json
+2024-10-03 04:07:02,984 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json049.json
+2024-10-03 04:07:02,986 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_processor\z_Archive\json_test_files\test_json050.json
+2024-10-03 04:07:02,987 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\json_triage
+2024-10-03 04:07:02,988 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_triage\json_triage.py
+2024-10-03 04:07:02,990 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_triage\json_triage_to_df.py
+2024-10-03 04:07:02,991 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\json_triage\json_triage_to_df_flat.py
+2024-10-03 04:07:02,992 - INFO - Processing Directory: C:\Users\kroy2\Documents\python\projects\py_to_pdf
+2024-10-03 04:07:02,993 - INFO - Processing File: C:\Users\kroy2\Documents\python\projects\py_to_pdf\py_to_pdf.py
+2024-10-03 04:07:02,993 - INFO - Processing File: C:\Users\kroy2\Documents\python\Screenshot 2024-10-01 174717.png
+2024-10-03 04:07:02,994 - INFO - CSV file created at C:\Users\kroy2\Documents\python\projects\dir_discovery\output\20241003_040702_directory_structure.csv
+2024-10-03 04:07:03,037 - INFO - Indented File Tree:
+
+Documents/
+    My Music/
+        [Permission Denied]
+    My Pictures/
+        [Permission Denied]
+    My Videos/
+        [Permission Denied]
+    python/
+        Db3A backup/
+            .vscode/
+                settings.json
+            backbup_weird home issue/
+                button_snap.py
+                check_mount.py
+                db.py
+                db2.py
+                db3.py
+                db_all.py
+                doorbell.h264
+                doorbell.jpg
+                passive_buzzer.py
+                pwm.py
+                pwm2.py
+                testfordoorbellfolder.txt
+                testing_mqtt_con_to_HA.py
+            doorbell py/
+                1.0_button.py
+                1.1_button_snap.py
+                1.3_buzzer.py
+                2.0_button_snap_buzz.py
+                2.1_button_snap_buzz.py
+            mjpg-streamer/
+            mqtt/
+                snap_b64.py
+                testingmqtt.py
+            picam/
+                lo_hi_res.py
+                picam.py
+                picam_still_vid.py
+        projects/
+            dir_discovery/
+                log/
+                    20241003_040702_file_structure.log
+                output/
+                    20241003_040702_directory_structure.csv
+                file_structure.log
+                recursive_directory_discovery.py
+                recursive_directory_discovery_tree.py
+            json_generate_test_files/
+                json_generate_test_files.py
+            json_processor/
+                .vscode/
+                    launch.json
+                data/
+                    json_test_files/
+                        00001.json
+                        00002.json
+                        00003.json
+                        00004.json
+                        00005.json
+                        00006.json
+                        00007.json
+                        00008.json
+                        00009.json
+                        00010.json
+                        00011.json
+                        00012.json
+                        00013.json
+                        00014.json
+                        00015.json
+                        00016.json
+                        00017.json
+                        00018.json
+                        00019.json
+                        00020.json
+                        00021.json
+                        00022.json
+                        00023.json
+                        00024.json
+                        00025.json
+                        00026.json
+                        00027.json
+                        00028.json
+                        00029.json
+                        00030.json
+                        00031.json
+                        00032.json
+                        00033.json
+                        00034.json
+                        00035.json
+                        00036.json
+                        00037.json
+                        00038.json
+                        00039.json
+                        00040.json
+                        00041.json
+                        00042.json
+                        00043.json
+                        00044.json
+                        00045.json
+                        00046.json
+                        00047.json
+                        00048.json
+                        00049.json
+                        00050.json
+                    outputs/
+                    12345.json
+                    67890.json
+                    json_test_cases.txt
+                json_redacter/
+                    cleaned/
+                        00001.json
+                        00002.json
+                        00003.json
+                        00004.json
+                        00005.json
+                        00006.json
+                        00007.json
+                        00008.json
+                        00009.json
+                        00010.json
+                        00011.json
+                        00012.json
+                        00013.json
+                        00014.json
+                        00015.json
+                        00016.json
+                        00017.json
+                        00018.json
+                        00019.json
+                        00020.json
+                        00021.json
+                        00022.json
+                        00023.json
+                        00024.json
+                        00025.json
+                        00026.json
+                        00027.json
+                        00028.json
+                        00029.json
+                        00030.json
+                        00031.json
+                        00032.json
+                        00033.json
+                        00034.json
+                        00035.json
+                        00036.json
+                        00037.json
+                        00038.json
+                        00039.json
+                        00040.json
+                        00041.json
+                        00042.json
+                        00043.json
+                        00044.json
+                        00045.json
+                        00046.json
+                        00047.json
+                        00048.json
+                        00049.json
+                        00050.json
+                        00052.json
+                        00053.json
+                        test_disk_full.json
+                    json_original/
+                        00001.json
+                        00002.json
+                        00003.json
+                        00004.json
+                        00005.json
+                        00006.json
+                        00007.json
+                        00008.json
+                        00009.json
+                        00010.json
+                        00011.json
+                        00012.json
+                        00013.json
+                        00014.json
+                        00015.json
+                        00016.json
+                        00017.json
+                        00018.json
+                        00019.json
+                        00020.json
+                        00021.json
+                        00022.json
+                        00023.json
+                        00024.json
+                        00025.json
+                        00026.json
+                        00027.json
+                        00028.json
+                        00029.json
+                        00030.json
+                        00031.json
+                        00032.json
+                        00033.json
+                        00034.json
+                        00035.json
+                        00036.json
+                        00037.json
+                        00038.json
+                        00039.json
+                        00040.json
+                        00041.json
+                        00042.json
+                        00043.json
+                        00044.json
+                        00045.json
+                        00046.json
+                        00047.json
+                        00048.json
+                        00049.json
+                        00050.json
+                        00051.json
+                        00052.json
+                        00053.json
+                        test_disk_full.json
+                    logs/
+                        json_cleaner_20241002_194307.log
+                        json_cleaner_20241002_194533.log
+                        json_cleaner_20241002_194737.log
+                        json_cleaner_20241002_194915.log
+                        json_cleaner_20241002_195335.log
+                        json_cleaner_20241002_195714.log
+                        json_cleaner_20241002_195928.log
+                    json_redacter.py
+                reports/
+                    20241002-185253_json_analysis_report.txt
+                    group_10_dataframe.csv
+                    group_11_dataframe.csv
+                    group_12_dataframe.csv
+                    group_13_dataframe.csv
+                    group_14_dataframe.csv
+                    group_15_dataframe.csv
+                    group_16_dataframe.csv
+                    group_17_dataframe.csv
+                    group_18_dataframe.csv
+                    group_19_dataframe.csv
+                    group_1_dataframe.csv
+                    group_20_dataframe.csv
+                    group_21_dataframe.csv
+                    group_22_dataframe.csv
+                    group_23_dataframe.csv
+                    group_24_dataframe.csv
+                    group_25_dataframe.csv
+                    group_26_dataframe.csv
+                    group_27_dataframe.csv
+                    group_28_dataframe.csv
+                    group_29_dataframe.csv
+                    group_2_dataframe.csv
+                    group_30_dataframe.csv
+                    group_31_dataframe.csv
+                    group_32_dataframe.csv
+                    group_33_dataframe.csv
+                    group_34_dataframe.csv
+                    group_3_dataframe.csv
+                    group_4_dataframe.csv
+                    group_5_dataframe.csv
+                    group_6_dataframe.csv
+                    group_7_dataframe.csv
+                    group_8_dataframe.csv
+                    group_9_dataframe.csv
+                scripts/
+                    app.log
+                    process_json.py
+                    process_json2.py
+                    split_json_file.py
+                z_Archive/
+                    json_test_files/
+                        test_json001.json
+                        test_json002.json
+                        test_json003.json
+                        test_json004.json
+                        test_json005.json
+                        test_json006.json
+                        test_json007.json
+                        test_json008.json
+                        test_json009.json
+                        test_json010.json
+                        test_json011.json
+                        test_json012.json
+                        test_json013.json
+                        test_json014.json
+                        test_json015.json
+                        test_json016.json
+                        test_json017.json
+                        test_json018.json
+                        test_json019.json
+                        test_json020.json
+                        test_json021.json
+                        test_json022.json
+                        test_json023.json
+                        test_json024.json
+                        test_json025.json
+                        test_json026.json
+                        test_json027.json
+                        test_json028.json
+                        test_json029.json
+                        test_json030.json
+                        test_json031.json
+                        test_json032.json
+                        test_json033.json
+                        test_json034.json
+                        test_json035.json
+                        test_json036.json
+                        test_json037.json
+                        test_json038.json
+                        test_json039.json
+                        test_json040.json
+                        test_json041.json
+                        test_json042.json
+                        test_json043.json
+                        test_json044.json
+                        test_json045.json
+                        test_json046.json
+                        test_json047.json
+                        test_json048.json
+                        test_json049.json
+                        test_json050.json
+                    file_structure.log
+                JSON_Claude_AI_question.txt
+            json_triage/
+                json_triage.py
+                json_triage_to_df.py
+                json_triage_to_df_flat.py
+            py_to_pdf/
+                py_to_pdf.py
+        Screenshot 2024-10-01 174717.png
+    bookmarks_1_8_24.html
+    bookmarks_9_30_24.html
+    Default.rdp
+    desktop.ini
+    directory_structure.csv
+2024-10-03 04:07:03,085 - INFO - Indented file tree saved at C:\Users\kroy2\Documents\python\projects\dir_discovery\output\20241003_040702_indented_file_tree.txt
