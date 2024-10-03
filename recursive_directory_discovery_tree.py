@@ -5,6 +5,15 @@ from pathlib import Path
 import time
 from datetime import datetime
 
+# =====================================================================
+
+
+#                This is an edit to test Git connection
+
+
+# =====================================================================
+
+
 # Create log and output directories
 script_dir = Path(__file__).parent
 log_dir = script_dir / "log"
